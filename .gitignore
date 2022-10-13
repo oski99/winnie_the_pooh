@@ -1,0 +1,4 @@
+*.npz
+*.txt
+winnie-emnist/
+winnie-kmnist/
