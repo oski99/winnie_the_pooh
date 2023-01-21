@@ -1,4 +1,4 @@
-*.npz
-*.txt
-winnie-emnist/
-winnie-kmnist/
+data
+__pycache__
+.ipynb_checkpoints
+
